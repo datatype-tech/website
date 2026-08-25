@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://datatype.me/en</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://datatype.me/en/projects</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/projects" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/projects" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/projects" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/en/about</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/about" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/about" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/about" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/en/contact</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/contact" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/contact" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/contact" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-CN</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-CN/projects</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/projects" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/projects" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/projects" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-CN/about</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/about" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/about" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/about" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-CN/contact</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/contact" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/contact" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/contact" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-TW</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-TW/projects</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/projects" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/projects" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/projects" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-TW/about</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/about" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/about" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/about" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://datatype.me/zh-TW/contact</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://datatype.me/en/contact" />
+<xhtml:link rel="alternate" hreflang="zh-CN" href="https://datatype.me/zh-CN/contact" />
+<xhtml:link rel="alternate" hreflang="zh-TW" href="https://datatype.me/zh-TW/contact" />
+<lastmod>2026-08-25T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>

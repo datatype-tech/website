@@ -1,0 +1,46 @@
+[
+  {
+    "id": "lloj_dev",
+    "date": "2026-08",
+    "url": "https://lloj.dev",
+    "translations": {
+      "en": {
+        "title": "LLOJ.DEV / Zuzong OJ",
+        "developer": "Simalth Wang",
+        "description": "LLOJ.DEV · An online judge for algorithm competitions and programming learning."
+      },
+      "zh-CN": {
+        "title": "LLOJ.DEV / \u7956\u5b97OJ",
+        "developer": "Simalth Wang",
+        "description": "LLOJ.DEV · \u9762\u5411\u7b97\u6cd5\u7ade\u8d5b\u4e0e\u7f16\u7a0b\u5b66\u4e60\u7684\u5728\u7ebf\u8bc4\u6d4b\u5e73\u53f0\u3002"
+      },
+      "zh-TW": {
+        "title": "LLOJ.DEV / \u7956\u5b97OJ",
+        "developer": "Simalth Wang",
+        "description": "LLOJ.DEV · \u9762\u5411\u6f14\u7b97\u6cd5\u7af6\u8cfd\u8207\u7a0b\u5f0f\u5b78\u7fd2\u7684\u7dda\u4e0a\u8a55\u6e2c\u5e73\u53f0\u3002"
+      }
+    }
+  },
+  {
+    "id": "quantum_garden",
+    "date": "2026-07",
+    "url": "https://qd.datatype.me",
+    "translations": {
+      "en": {
+        "title": "Quantum Garden",
+        "developer": "Sakura",
+        "description": "A quantum-mechanics gardening strategy roguelite · single-player · mouse-controlled."
+      },
+      "zh-CN": {
+        "title": "Quantum Garden / \u91cf\u5b50\u82b1\u56ed",
+        "developer": "Sakura",
+        "description": "\u91cf\u5b50\u529b\u5b66\u4e3b\u9898\u7684\u79cd\u82b1\u7b56\u7565\u8089\u9e3d · \u5355\u673a · \u9f20\u6807\u64cd\u4f5c\u3002"
+      },
+      "zh-TW": {
+        "title": "Quantum Garden / \u91cf\u5b50\u82b1\u5712",
+        "developer": "Sakura",
+        "description": "\u91cf\u5b50\u529b\u5b78\u4e3b\u984c\u7684\u7a2e\u82b1\u7b56\u7565\u8089\u9d3f · \u55ae\u6a5f · \u6ed1\u9f20\u64cd\u4f5c\u3002"
+      }
+    }
+  }
+]
